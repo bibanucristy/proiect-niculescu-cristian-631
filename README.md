@@ -5,10 +5,17 @@ Ne-ati spus sa facem un README in care sa lasam indicatii de conectare si folosi
 As recomanda totusi sa intrati prima data pe login.php pentru a putea vedea si butonul de edit sub fiecare carte (care cu siguranta nu este luat litera cu litera din laboratoarele de pe https://pwa.dragos.club/labs <br> 
 
 <b>id:admin <br>
-pass:password123</b>
-
+pass:password123</b> <br>
 *Eu cand o sa incerce hackerii rusi sa faca bruteforce la site si le ia 2 secunde sa gaseasca parola <br>
-![image](https://github.com/user-attachments/assets/3359ea98-3f82-4400-a5ad-9cb0c33182dd)
+![image](https://github.com/user-attachments/assets/3359ea98-3f82-4400-a5ad-9cb0c33182dd) <br>
+Setari XAMPP <br>
+Apache pe port 80,443 <br>
+MySQL pe port 3306 <br>
+db login: 
+- id:root
+- pass:(fara parola)
+
+
 
 
 Pe langa butonul de edit care este 100% gandit de mine, veti regasi si alte functii atragatoare (la fel gandite doar de mine)precum:
